@@ -1,0 +1,48 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Informatics Engineering Student
+# your company information
+company:
+  name: Universitat Politècnica de Catalunya
+  url: "https://www.upc.edu/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "http://miquelt9.github.io/docs/Miquel_Torner_CV.pdf"
+
+# a summary about you
+summary: "Hi, I'm Miquel, a student at Universitat Politècnica de Catalunya persuing a bachelor's degree. A part from programing, I love hiking, cooking and travelling. I am the type of person who automates a task (that is gonna be done just once) which could be done faster manually. \n"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "miqueltorner9@gmail.com"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/miquelt9"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/miqueltv/"
+- name: Devpost
+  icon : "fa-solid fa-d"
+  url: "https://devpost.com/miqueltorner9"
+  
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+#softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+#- name: Team Work
+#  percentage: 90
+#  color: yellow

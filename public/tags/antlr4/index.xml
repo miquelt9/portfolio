@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANTLR4 on Miquel&#39;s Portfolio</title>
+    <link>https://miquelt9.github.io/portfolio/tags/antlr4/</link>
+    <description>Recent content in ANTLR4 on Miquel&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jun 2023 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt9.github.io/portfolio/tags/antlr4/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>λ-Calculus Telegram Bot</title>
+      <link>https://miquelt9.github.io/portfolio/posts/college/lambdacalculustelegrambot/</link>
+      <pubDate>Tue, 13 Jun 2023 06:00:23 +0600</pubDate>
+      
+      <guid>https://miquelt9.github.io/portfolio/posts/college/lambdacalculustelegrambot/</guid>
+      <description>The statement The task was to build a lambda calculus interpreter. The interpreter also requiered to support the definition and use of macros. The interpreter had to run as a Telegram bot. It was needed that the bot could support sending the image of the tree interpratated, do ß-reductions and α-conversions.
+The full statement can be found below or in the following site (in Catalan).
+More than a complex project this just requiered spending time on making sure all the requierements were added after understanding how λ calculus works.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

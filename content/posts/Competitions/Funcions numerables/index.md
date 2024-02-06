@@ -23,7 +23,7 @@ Together with [Paula](https://github.com/paulaesquerra), [Ruth](https://github.c
 
 The first strategy was implemented to minimize the sum of the lengths of the chain. In each iteration the algorithm connects a node to the path by removing one edge and and adding 2 edges from the disconnected nodes to the new node, which is choosen to minimize the length. However even though this works well, because the algorithm takes O(n³) it takes too long for large cases (>1000 nodes).   
 
-Our second stratregy is less accurate but has a time complecity of O(log(n)). It takes all the pins (nodes) and divides them into 32 different intervals depending on the Y-axis, then every pin on the interval is connected with the same cable from left to right and the n-th interval is connected with the n+16-th internval so we connect the input with the output driver.
+Our second stratregy is less accurate but has a time complecity of O(log(n)). It takes all the pins (nodes) and divides them into 32 different intervals depending on the Y-axis, then every pin on the interval is connected with the same cable from left to right and the n-th interval is connected with the n+16-th internval so we connect the input with the output driver. Which gave us not as a good solution but worked fairly well.
 
 {{< line_break >}}
 

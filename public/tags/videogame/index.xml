@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Videogame on Miquel&#39;s Portfolio</title>
-    <link>https://miquelt9.github.io/portfolio/tags/videogame/</link>
-    <description>Recent content in Videogame on Miquel&#39;s Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 16 May 2021 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt9.github.io/portfolio/tags/videogame/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>HackUPC 2021</title>
-      <link>https://miquelt9.github.io/portfolio/posts/competitions/hackupc2021/</link>
-      <pubDate>Sun, 16 May 2021 06:00:23 +0600</pubDate>
-      
-      <guid>https://miquelt9.github.io/portfolio/posts/competitions/hackupc2021/</guid>
-      <description>HackUPC is the main yearly hackathon organized in my university. In 2021 because of the pandemic we decided to take part from home.
-Our project @BernatBC, @JCasahuga and I went to it as 1st year students, it was indeed our first hackathon. We were there for fun and learning new things. That year, the project didn&amp;rsquo;t have to had a theme (even though later we found people tend to do one of the partners challenges).</description>
-    </item>
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Videogame on Miquel's Portfolio</title><link>https://miquelt.me/portfolio/tags/videogame/</link><description>Recent content in Videogame on Miquel's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 May 2021 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt.me/portfolio/tags/videogame/index.xml" rel="self" type="application/rss+xml"/><item><title>HackUPC 2021</title><link>https://miquelt.me/portfolio/posts/competitions/hackupc2021/</link><pubDate>Sun, 16 May 2021 06:00:23 +0600</pubDate><guid>https://miquelt.me/portfolio/posts/competitions/hackupc2021/</guid><description>HackUPC is the main yearly hackathon organized in my university. In 2021 because of the pandemic we decided to take part from home.
+Our project @BernatBC, @JCasahuga and I went to it as 1st year students, it was indeed our first hackathon. We were there for fun and learning new things. That year, the project didn&amp;rsquo;t have to had a theme (even though later we found people tend to do one of the partners challenges).</description></item></channel></rss>

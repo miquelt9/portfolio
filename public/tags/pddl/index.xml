@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PDDL on Miquel&#39;s Portfolio</title>
-    <link>https://miquelt9.github.io/portfolio/tags/pddl/</link>
-    <description>Recent content in PDDL on Miquel&#39;s Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 14 Jan 2023 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt9.github.io/portfolio/tags/pddl/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>PDDL on Mars</title>
-      <link>https://miquelt9.github.io/portfolio/posts/college/planification/</link>
-      <pubDate>Sat, 14 Jan 2023 06:00:23 +0600</pubDate>
-      
-      <guid>https://miquelt9.github.io/portfolio/posts/college/planification/</guid>
-      <description>The statement In 2075, the first colonizers of Mars have established a network of bases throughout the geography of the planet. Moving between these bases is done by rovers that can move supplies and specialized personnel.
-We are in charge of planning the movements of the rovers from the base where they are parked, to pick up the supplies and personnel, to bring them in the requested place. We&amp;rsquo;ve been told that there are always more requests for supplies and personnel of those that can be used (life on Mars is very hard).</description>
-    </item>
-    
-    <item>
-      <title>Royal Hackaway v6</title>
-      <link>https://miquelt9.github.io/portfolio/posts/competitions/royalhackawayv6/</link>
-      <pubDate>Mon, 07 Feb 2022 06:00:23 +0600</pubDate>
-      
-      <guid>https://miquelt9.github.io/portfolio/posts/competitions/royalhackawayv6/</guid>
-      <description>Our project When @BernatBC, @alexland7219, @Loparc, and I discovered that a shark plushies were one of the prizes of an clearly underated challenge, we realized that the UK&amp;rsquo;s hackathons needed a way to optimally distribute the shark flushies across the country.
-Therefore, we develop a simulator that allows them to place the distribution centers and hackathons (and link them), as well as how many plushie vans you want and its capacity, and it will find a optimal route at the same time it satisfies the demand.</description>
-    </item>
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PDDL on Miquel's Portfolio</title><link>https://miquelt.me/portfolio/tags/pddl/</link><description>Recent content in PDDL on Miquel's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Jan 2023 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt.me/portfolio/tags/pddl/index.xml" rel="self" type="application/rss+xml"/><item><title>PDDL on Mars</title><link>https://miquelt.me/portfolio/posts/college/planification/</link><pubDate>Sat, 14 Jan 2023 06:00:23 +0600</pubDate><guid>https://miquelt.me/portfolio/posts/college/planification/</guid><description>The statement In 2075, the first colonizers of Mars have established a network of bases throughout the geography of the planet. Moving between these bases is done by rovers that can move supplies and specialized personnel.
+We are in charge of planning the movements of the rovers from the base where they are parked, to pick up the supplies and personnel, to bring them in the requested place. We&amp;rsquo;ve been told that there are always more requests for supplies and personnel of those that can be used (life on Mars is very hard).</description></item><item><title>Royal Hackaway v6</title><link>https://miquelt.me/portfolio/posts/competitions/royalhackawayv6/</link><pubDate>Mon, 07 Feb 2022 06:00:23 +0600</pubDate><guid>https://miquelt.me/portfolio/posts/competitions/royalhackawayv6/</guid><description>Our project When @BernatBC, @alexland7219, @Loparc, and I discovered that a shark plushies were one of the prizes of an clearly underated challenge, we realized that the UK&amp;rsquo;s hackathons needed a way to optimally distribute the shark flushies across the country.
+Therefore, we develop a simulator that allows them to place the distribution centers and hackathons (and link them), as well as how many plushie vans you want and its capacity, and it will find a optimal route at the same time it satisfies the demand.</description></item></channel></rss>

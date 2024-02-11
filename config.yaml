@@ -61,6 +61,9 @@ params:
   # Configure various features of this theme
   features:
 
+    pagination:
+      maxPostsPerPage: 60
+
     # Enable dark theme
     darkMode:
       enable: true

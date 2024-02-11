@@ -15,7 +15,9 @@ company:
   url: "https://www.upc.edu/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "http://miquelt9.github.io/docs/Miquel_Torner_CV.pdf"
+resourceLinks:
+- title: "My Resume"
+  url: "http://miquelt9.github.io/docs/Miquel_Torner_CV.pdf"
 
 # a summary about you
 summary: "Hi, I'm Miquel, a student at Universitat Politècnica de Catalunya persuing a bachelor's degree. A part from programing, I love hiking, cooking and travelling. I am the type of person who automates a task (that is gonna be done just once) which could be done faster manually. \n"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Miquel&#39;s Portfolio</title>
+    <link>http://localhost:1313/portfolio/tags/c</link>
+    <description>Recent content in C# on Miquel&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Feb 2022 06:00:23 +0600</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/c" rel="self" type="application/rss+xml" /><item>
+      <title>Royal Hackaway v6</title>
+      <link>http://localhost:1313/portfolio/posts/competitions/royalhackawayv6/</link>
+      <pubDate>Mon, 07 Feb 2022 06:00:23 +0600</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/posts/competitions/royalhackawayv6/</guid>
+      <description>Our project When @BernatBC, @alexland7219, @Loparc, and I discovered that a shark plushies were one of the prizes of an clearly underated challenge, we realized that the UK&amp;rsquo;s hackathons needed a way to optimally distribute the shark flushies across the country.
+Therefore, we develop a simulator that allows them to place the distribution centers and hackathons (and link them), as well as how many plushie vans you want and its capacity, and it will find a optimal route at the same time it satisfies the demand.</description>
+    </item>
+    
+    <item>
+      <title>HackUPC 2021</title>
+      <link>http://localhost:1313/portfolio/posts/competitions/hackupc2021/</link>
+      <pubDate>Sun, 16 May 2021 06:00:23 +0600</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/posts/competitions/hackupc2021/</guid>
+      <description>HackUPC is the main yearly hackathon organized in my university. In 2021 because of the pandemic we decided to take part from home.
+Our project @BernatBC, @JCasahuga and I went to it as 1st year students, it was indeed our first hackathon. We were there for fun and learning new things. That year, the project didn&amp;rsquo;t have to had a theme (even though later we found people tend to do one of the partners challenges).</description>
+    </item>
+    
+    
+  </channel>
+</rss>

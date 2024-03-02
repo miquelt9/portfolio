@@ -24,5 +24,9 @@ The full statement can be found below or in the following [site](https://gebakx.
 {{< line_break >}}
 
 More than a complex project this just requiered spending time on making sure all the requierements were added after understanding how λ calculus works. I also decided to add some more features such as multiple languages and toogle some of the features.
+
+
+{{< figure src="telegram_chat.jpg">}}
+<p style="text-align: center; width:">Telegram Bot on action.</p>
  
 #### [Project's code on Github <i class="fab fa-github"></i> ](https://github.com/miquelt9/LP-FIB/tree/main/AChurch) 

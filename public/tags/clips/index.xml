@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clips on Miquel&#39;s Portfolio</title>
-    <link>https://miquelt.me/portfolio/tags/clips/</link>
+    <link>http://localhost:1313/portfolio/tags/clips/</link>
     <description>Recent content in Clips on Miquel&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Dec 2022 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt.me/portfolio/tags/clips/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 19 Dec 2022 06:00:23 +0600</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/clips/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Knowledge Based Systems</title>
-      <link>https://miquelt.me/portfolio/posts/college/knowledgebasedsystems/</link>
+      <link>http://localhost:1313/portfolio/posts/college/knowledgebasedsystems/</link>
       <pubDate>Mon, 19 Dec 2022 06:00:23 +0600</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/college/knowledgebasedsystems/</guid>
+      <guid>http://localhost:1313/portfolio/posts/college/knowledgebasedsystems/</guid>
       <description>The statement In order to keep the older population in shape we had to build a program that recommends exercises and activities that are appropiate taking into account all factors of the individual and how may effect on the performance and goals.
 I.e.: given certain information about a person, we had to output an exercise plan suitable for him/her.
 The full statement is in the document below. Note that the statement is in Spanish.</description>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bot on Miquel&#39;s Portfolio</title>
-    <link>https://miquelt.me/portfolio/tags/bot/</link>
+    <link>http://localhost:1313/portfolio/tags/bot/</link>
     <description>Recent content in Bot on Miquel&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt.me/portfolio/tags/bot/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Fri, 01 Sep 2023 06:00:23 +0600</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/bot/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Otaniemi Tracker Bot</title>
-      <link>https://miquelt.me/portfolio/posts/personal/otaniemi-tracker-bot/</link>
+      <link>http://localhost:1313/portfolio/posts/personal/otaniemi-tracker-bot/</link>
       <pubDate>Fri, 01 Sep 2023 06:00:23 +0600</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/personal/otaniemi-tracker-bot/</guid>
+      <guid>http://localhost:1313/portfolio/posts/personal/otaniemi-tracker-bot/</guid>
       <description>The project On the fall semester of 2023-2024 I went abroad at Aalto University, as a Erasmus+ student I needed some place to stay during the period I was in Helsinki. However, even though me and a friend manage to get a nice apartment, we soon find out that most of the apartments rented there didn&amp;rsquo;t have any furtniture and people brought their own. Unfortunately as exchange students we couldn&amp;rsquo;t just rent a van a bring our bed, table and chair from the other side of Europe.</description>
     </item>
     

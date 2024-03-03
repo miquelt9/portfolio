@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>College on Miquel&#39;s Portfolio</title>
-    <link>https://miquelt.me/portfolio/posts/college/</link>
+    <link>http://localhost:1313/portfolio/posts/college/</link>
     <description>Recent content in College on Miquel&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jun 2023 06:00:23 +0600</lastBuildDate><atom:link href="https://miquelt.me/portfolio/posts/college/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 13 Jun 2023 06:00:23 +0600</lastBuildDate><atom:link href="http://localhost:1313/portfolio/posts/college/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>λ-Calculus Telegram Bot</title>
-      <link>https://miquelt.me/portfolio/posts/college/lambdacalculustelegrambot/</link>
+      <link>http://localhost:1313/portfolio/posts/college/lambdacalculustelegrambot/</link>
       <pubDate>Tue, 13 Jun 2023 06:00:23 +0600</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/college/lambdacalculustelegrambot/</guid>
+      <guid>http://localhost:1313/portfolio/posts/college/lambdacalculustelegrambot/</guid>
       <description>The statement The task was to build a lambda calculus interpreter. The interpreter also requiered to support the definition and use of macros. The interpreter had to run as a Telegram bot. It was needed that the bot could support sending the image of the tree interpratated, do ß-reductions and α-conversions.
 The full statement can be found below or in the following site (in Catalan).
 More than a complex project this just requiered spending time on making sure all the requierements were added after understanding how λ calculus works.</description>
@@ -19,10 +19,10 @@ More than a complex project this just requiered spending time on making sure all
     
     <item>
       <title>Falcon Explorer</title>
-      <link>https://miquelt.me/portfolio/posts/college/falconexplorer/</link>
+      <link>http://localhost:1313/portfolio/posts/college/falconexplorer/</link>
       <pubDate>Sun, 22 Jan 2023 06:00:14 +0200</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/college/falconexplorer/</guid>
+      <guid>http://localhost:1313/portfolio/posts/college/falconexplorer/</guid>
       <description>The statement The PROP college subject asked us to create an application to manage documents using Java. The app must allow the user to create, read, write, modify, delete, import and export files in various formats. One of the key features of the app is the queries to allow the user to find documents based on multiple arguments.
 The full statement is in the document below (in Catalan).
 Our approach Together with @AleexHrB, @LlucCC and @eZWALT, we made a case diagram to list all the features and functionalities our app had to have.</description>
@@ -30,20 +30,20 @@ Our approach Together with @AleexHrB, @LlucCC and @eZWALT, we made a case diagra
     
     <item>
       <title>PDDL on Mars</title>
-      <link>https://miquelt.me/portfolio/posts/college/planification/</link>
+      <link>http://localhost:1313/portfolio/posts/college/planification/</link>
       <pubDate>Sat, 14 Jan 2023 06:00:23 +0600</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/college/planification/</guid>
+      <guid>http://localhost:1313/portfolio/posts/college/planification/</guid>
       <description>The statement In 2075, the first colonizers of Mars have established a network of bases throughout the geography of the planet. Moving between these bases is done by rovers that can move supplies and specialized personnel.
 We are in charge of planning the movements of the rovers from the base where they are parked, to pick up the supplies and personnel, to bring them in the requested place. We&amp;rsquo;ve been told that there are always more requests for supplies and personnel of those that can be used (life on Mars is very hard).</description>
     </item>
     
     <item>
       <title>Knowledge Based Systems</title>
-      <link>https://miquelt.me/portfolio/posts/college/knowledgebasedsystems/</link>
+      <link>http://localhost:1313/portfolio/posts/college/knowledgebasedsystems/</link>
       <pubDate>Mon, 19 Dec 2022 06:00:23 +0600</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/college/knowledgebasedsystems/</guid>
+      <guid>http://localhost:1313/portfolio/posts/college/knowledgebasedsystems/</guid>
       <description>The statement In order to keep the older population in shape we had to build a program that recommends exercises and activities that are appropiate taking into account all factors of the individual and how may effect on the performance and goals.
 I.e.: given certain information about a person, we had to output an exercise plan suitable for him/her.
 The full statement is in the document below. Note that the statement is in Spanish.</description>
@@ -51,10 +51,10 @@ The full statement is in the document below. Note that the statement is in Spani
     
     <item>
       <title>Local Search</title>
-      <link>https://miquelt.me/portfolio/posts/college/localsearch/</link>
+      <link>http://localhost:1313/portfolio/posts/college/localsearch/</link>
       <pubDate>Mon, 24 Oct 2022 06:00:23 +0600</pubDate>
       
-      <guid>https://miquelt.me/portfolio/posts/college/localsearch/</guid>
+      <guid>http://localhost:1313/portfolio/posts/college/localsearch/</guid>
       <description>The statement Given a set of power plants and clients, we had to optimize the profit. Power gets drained depending on the distance it needs to travel, clients don&amp;rsquo;t pay the same (not all of them are requiered to be served) and power plants costs depend on their size.
 To solve the problem, we were asked to use Hill Climbing and Simulated Annealing.
 The full statement below (in Spanish).

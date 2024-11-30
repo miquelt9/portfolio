@@ -11,10 +11,26 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Directia Travel
+    url: "https://directiatravel.com/"
+    location: Barcelona, Spain
+  positions:
+  - designation: Software developer
+    location: Barcelona, Spain
+    start: July 2024
+    end: Jan 2025
+    responsibilities:
+    - Design and developed both front and back end of an internal application using PHP, Javascript and Laravel framework.
+
+- company:
     name: Polytechnic University of Catalonia
     url: "https://www.upc.edu"
     location: Barcelona, Spain
   positions:
+  - designation: Undergraduate Teaching Assistant
+    start: Sep 2024
+    end: Jan 205
+
   - designation: Undergraduate Teaching Assistant
     start: Oct 2022
     end: Jan 2023
@@ -22,6 +38,7 @@ experiences:
   - designation: Undergraduate Teaching Assistant
     start: Sep 2021
     end: Jan 2022
+  
     responsibilities:
     - Supporting first year students with [Programming 1](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/syllabus/PRO1) course.
     - Resolved doubts and presented further course topics such us data structures and algorithms.

@@ -27,7 +27,7 @@ skills:
 
 - name: Linux
   logo: /images/linux.png
-  summary: "Using a Linux distribution (EndevourOS) as main OS."
+  summary: "Using a Linux distribution (EndeavourOS) as main OS."
 
 - name: Git
   logo: /images/git.png

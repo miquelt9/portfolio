@@ -16,7 +16,7 @@ tags: ["AI", "Competition", "Python", "Numpy", "Pandas", "scikit-learn"]
 
 ## The challenge
 
-With increasing digitalisation and the growing on data servers, the significance of sustainable computing is on the rise. That's why the task is to predict which will be the European contry that will have the highest surplus of green energy in the following hour. Knowing this information can be critical to make important decisions in order to reduce CO2 emissions.
+With increasing digitalisation and the growing on data servers, the significance of sustainable computing is on the rise. That's why the task is to predict which will be the European country that will have the highest surplus of green energy in the following hour. Knowing this information can be critical to make important decisions in order to reduce CO2 emissions.
 This [challenge](https://nuwe.io/dev/competitions/schneider-electric-european-2023/ecoforecast-revolutionizing-green-energy-surplus-prediction-in-europe) was the problem of a Nuwe competition.
   
 ## The approach

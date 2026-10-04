@@ -11,6 +11,17 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Càtedra CHIP UPC
+    url: "https://catedrachip.upc.edu/"
+    location: Barcelona, Spain
+  positions:
+  - designation: Research support
+    start: January 2025
+    end: July 2025
+    responsibilities:
+    - Research support on simulation and automated evaluation of digital circuits.
+
+- company:
     name: Directia Travel
     url: "https://directiatravel.com/"
     location: Barcelona, Spain
@@ -29,7 +40,7 @@ experiences:
   positions:
   - designation: Undergraduate Teaching Assistant
     start: Sep 2024
-    end: Jan 205
+    end: Jan 2025
 
   - designation: Undergraduate Teaching Assistant
     start: Oct 2022
@@ -41,7 +52,7 @@ experiences:
   
     responsibilities:
     - Supporting first year students with [Programming 1](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/syllabus/PRO1) course.
-    - Resolved doubts and presented further course topics such us data structures and algorithms.
+    - Resolved doubts and presented further course topics such as data structures and algorithms.
     - Reviewed students' work and provided feedback + prepared them for evaluations.
 
 - company:
@@ -54,7 +65,7 @@ experiences:
     start: July 2022
     end: Sep 2022
     responsibilities:
-    - Implemented an android widget that provides shorcuts to one of the Google app functionalities.
+    - Implemented an android widget that provides shortcuts to one of the Google app functionalities.
 
 
 - company:
